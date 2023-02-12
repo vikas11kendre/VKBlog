@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/vikas11kendre/BeeCurious-Blog-backend.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/vikas11kendre/BeecuriousBlog-FrontEnd.git
